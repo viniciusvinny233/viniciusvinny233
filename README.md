@@ -18,7 +18,8 @@
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinny233&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <br>	
-
+<br>	
+<br>	
 🔗 Clique no botão ao lado para visualizar o meu perfil <a href="https://www.linkedin.com/in/giovana-ferreira2003/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 
