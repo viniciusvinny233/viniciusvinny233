@@ -1,8 +1,8 @@
 <img style="margin-top: 40px;" align="right" width="400px" height="600px" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif">
 
-# Oieeee, seja bem vindo(a) <img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" width="30px">
+# Opaaaa, seja bem vindo(a) <img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" width="30px">
 
-#### Opa, eu sou o Marcos Vinicius, tenho 16 anos e moro em São Paulo SP.!  
+#### Prazer, eu sou o Marcos Vinicius, tenho 16 anos e moro em São Paulo SP.!  
 
 - 💻 Desenvolvedor full stack junior
 - 😁 Venha me conhecer mais um pouco.
@@ -16,7 +16,7 @@
 ![VSCode](https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinny233&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img cursor- "auto" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinny233&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <br>	
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/giovana-ferreira2003/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
