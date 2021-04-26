@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-# Oieeee, seja bem vindo(a) <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+# Oieeee, seja bem vindo(a) <img src="https://pa1.narvii.com/6889/c019193a7b6eafc916f2eba70d0e87ad7d88cd60r1-411-454_hq.gif" width="30px">
 
 #### Me chamo Giovana, tenho 18 anos e moro em Florianóplois-SC.!  
 
