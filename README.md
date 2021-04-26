@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://pa1.narvii.com/6889/c019193a7b6eafc916f2eba70d0e87ad7d88cd60r1-411-454_hq.gif">
 
 # Oieeee, seja bem vindo(a) <img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" width="30px">
 
