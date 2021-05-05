@@ -19,9 +19,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinny233&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <br>	
 <br>	
-  
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="marcos-vinicius-240436144"><a class="LI-simple-link" href='https://br.linkedin.com/in/marcos-vinicius-240436144?trk=profile-badge'>Marcos Vinicius</a></div>
-  
 🔗 Clique no botão ao lado para visualizar o meu perfil <a href="https://www.linkedin.com/in/marcos-vinicius-240436144/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 
