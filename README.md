@@ -4,7 +4,7 @@
 
 #### Prazer, eu sou o Marcos Vinicius, tenho 16 anos e moro em São Paulo SP!  
 
-- 💻 Desenvolvedor full stack junior
+- 💻 Desenvolvedor junior
 - 😁 Venha me conhecer mais um pouco.
 
 # Tecnologias: <img src="https://camo.githubusercontent.com/4657f5b18f9359e8eea422d92b512a9bcdda21ed17727b7a935bdff6137b2270/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66765432757a6b7a7353576d6d6b766c35672f67697068792e676966" width="35px">
