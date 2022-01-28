@@ -84,6 +84,6 @@
 
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="viniciusvinny233" width="370" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br" alt="viniciusvinny233" width="437"/></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="viniciusvinny233" width="370" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br" alt="viniciusvinny233" width="436"/></p>
 
 
