@@ -28,7 +28,7 @@
 
 
 
-<h3 align="center">Linguagens e ferramentas:</h3>
+<h3 align="center">Linguagens, frameworks, bibliotecas e ferramentas:</h3>
 
 <h4 align="center">Front-end:</h4>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
