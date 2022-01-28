@@ -1,24 +1,89 @@
-<img style="margin-top: 40px;" align="right" width="400px" height="600px" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif">
+<h1 align="center">Oi 👋, Eu sou o Marcos Vinicius  <img
+        src="https://komarev.com/ghpvc/?username=viniciusvinny233&label=viniciusvinny233&color=cf66ff&style=plastic"
+        alt="viniciusvinny233" /></h1>
+<h3 align="center">Desenvolvedor FullStack Junior</h3>
 
-# Opaaaa, seja bem vindo(a) <img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" width="30px">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
+            src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a> </p>
 
-#### Prazer, eu sou o Marcos Vinicius, tenho 17 anos e moro em São Paulo SP!  
+- 👨‍💻 Acesse meu portfólio
+[https://viniciusvinny233.github.io/portfolio/](https://viniciusvinny233.github.io/portfolio/)
 
-- 💻 Desenvolvedor junior
-- 😁 Venha me conhecer mais um pouco.
+- 📫 Você pode entrar em contato comigo através do meu gmail **viniciusvinny233@gmail.com**
 
-# Tecnologias: <img src="https://camo.githubusercontent.com/4657f5b18f9359e8eea422d92b512a9bcdda21ed17727b7a935bdff6137b2270/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66765432757a6b7a7353576d6d6b766c35672f67697068792e676966" width="35px">
+<h3 align="left">Fale comigo:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-vinicius-240436144/" target="blank"><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/marcos-vinicius-240436144/" height="30" width="40" /></a>
+    <a href="https://discord.gg/₥₳ⱤQɄł₦#5787" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="₥₳ⱤQɄł₦#5787" height="30" width="40" /></a>
+</p>
 
-![HTML](https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS](https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333)
-![JavaScript](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
-![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
-![VSCode](https://camo.githubusercontent.com/639d2f4c43a01e8f0382589b9e2dae1d20161b6ec0bc9a40dcd99917f1b2286d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusvinny233&theme=dracula&locale=pt-br" alt="viniciusvinny233" width="500" /></p>
 
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinny233&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-<br>	
-<br>	
-🔗 Clique no botão ao lado para visualizar o meu perfil <a href="https://www.linkedin.com/in/marcos-vinicius-240436144/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+
+
+
+
+<h3 align="center">Linguagens e ferramentas:</h3>
+
+<h4 align="center">Front-end:</h4>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <p align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                alt="bootstrap" width="40" height="40" />
+    </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
+        rel="noreferrer"> <img src="https://i.ibb.co/Nmdx5hh/jQuery.png" alt="jquery" width="45" height="45" /> </a> <a
+        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+            width="40" height="40" /> </a> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+</p>
+
+<h4 align="center">Back-end:</h4>
+
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://jquery.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+        rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
+            width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+</p>
+
+<h4 align="center">Mobile:</h4>
+
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a> <a
+        href="https://flutter.dev" target="_blank" rel="noreferrer"><img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+</p>
+
+<h4 align="center">Ferramentas:</h4>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        alt="photoshop" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
+</p>
+
+
+</p>
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="viniciusvinny233" width="410" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br" alt="viniciusvinny233" /></p>
 
 
