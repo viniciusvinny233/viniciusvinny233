@@ -13,7 +13,7 @@
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-vinicius-240436144/" target="blank"><img
+    <a href="https://www.linkedin.com/in/marcos-vinicius-240436144/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/marcos-vinicius-240436144/" height="30" width="40" /></a>
