@@ -84,6 +84,8 @@
 
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="viniciusvinny233" width="370" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=viniciusvinny233&show_icons=true&theme=dracula&locale=pt-br" alt="viniciusvinny233" width="436"/></p>
-
-
+<div align="center">
+  <a href="https://github.com/larissadalimar">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusvinny233&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinny233&layout=compact&langs_count=7&theme=dracula"/>
+</div>
