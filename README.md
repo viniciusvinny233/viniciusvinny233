@@ -22,8 +22,6 @@
             alt="₥₳ⱤQɄł₦#5787" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusvinny233&theme=dracula&locale=pt-br" alt="viniciusvinny233" width="500" /></p>
-
 
 
 
