@@ -6,8 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
         src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a> </p>
 
-- 👨‍💻 Acesse meu portfólio **https://viniciusvinny233.github.io/portfolio/**
-
 - 📫 Você pode entrar em contato comigo através do meu gmail **viniciusvinny233@gmail.com**
 
 ## Linguagens, frameworks, bibliotecas e ferramentas:  
