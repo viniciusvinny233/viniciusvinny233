@@ -6,8 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
         src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a> </p>
 
-- 📫 Você pode entrar em contato comigo através do meu gmail **viniciusvinny233@gmail.com**
-
 ## Linguagens, frameworks, bibliotecas e ferramentas:  
 <table><tr><td valign="top" width"20%">
 
@@ -71,6 +69,9 @@
   </a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-240436144/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="mailto:viniciusvinny233@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
