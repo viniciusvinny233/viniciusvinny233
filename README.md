@@ -5,6 +5,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
         src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a> </p>
+        
+- 👨‍💻 Desenvolvedor desde os 15 anos
+
+- 🌱 Atualmente desenvolvendo um projeto em Flutter 
+
+- 📚 Estou cursando Engenharia de Software na universidade FIAP
+
+- 🎮 Entusiasta em jogos online, xadrez e poker
 
 ## Linguagens, frameworks, bibliotecas e ferramentas:  
 <table><tr><td valign="top" width"20%">
