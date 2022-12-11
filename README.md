@@ -1,7 +1,7 @@
 <h1 align="center">Oi <img height="30" width="40" src="https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" />, Eu sou o Marcos Vinicius  <img
     src="https://komarev.com/ghpvc/?username=viniciusvinny233&label=viniciusvinny233&color=cf66ff&style=plastic"
     alt="viniciusvinny233" /></h1>
-<h3 align="center">Desenvolvedor Full Stack Junior</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
         src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a> </p>
