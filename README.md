@@ -3,8 +3,8 @@
     alt="viniciusvinny233" /></h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
-        src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
+        src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a>
         
 - 👨‍💻 Desenvolvedor desde os 15 anos
 
