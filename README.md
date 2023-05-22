@@ -3,8 +3,8 @@
     alt="viniciusvinny233" /></h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-<center><a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
-        src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" alt="viniciusvinny233" /></a></center>
+<div align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
+        src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" align="center" alt="viniciusvinny233" /></div>
         
 - 👨‍💻 Desenvolvedor desde os 15 anos
 
@@ -21,17 +21,17 @@
     <h3>Frontend</h1>
       </div>
 <div align="center">  
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="40" width="53" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" />
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+    <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 </div>
 
 </td><td valign="top" width="20%">
-
 
 
 <div align="center">
@@ -40,6 +40,8 @@
 <div align="center">  
     <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
     <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="48" width="55" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1648592075802x919360361145971000%2Fjafapps_%255B1%255D.png?w=&h=&auto=compress&dpr=1&fit=max" />  
+    <img height="42" width="42" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 
 
 </div>
@@ -50,11 +52,11 @@
     <h3>Ferramentas</h1>
       </div>
 <div align="center">  
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+<img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 </div>
     
  </td><td valign="top" width="20%">
