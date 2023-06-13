@@ -5,8 +5,7 @@
 
 <div align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
         src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" align="center" alt="viniciusvinny233" /></div>
-        
-- 👨‍💻 Desenvolvedor desde os 15 anos
+       
 
 - 🌱 Atualmente desenvolvendo um projeto em Flutter 
 
