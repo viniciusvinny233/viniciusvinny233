@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-end</h3>
 
 <div align="center"><img
-        src="https://github-trophies.vercel.app/?username=viniciusvinny233&theme=dracula&no-frame=false&no-bg=false&margin-w=4" align="center" alt="viniciusvinny233" /></div>
+        src="https://github-trophies.vercel.app/?username=viniciusvinny233&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" align="center" alt="viniciusvinny233" /></div>
        
 <br><br>
 
