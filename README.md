@@ -33,15 +33,12 @@
 
 </td><td valign="top" width="20%">
 
-
 <div align="center">
     <h3>Backend</h1>
       </div>
 <div align="center">  
     <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
     <img height="42" width="42" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
-
-
 </div>
 
 </td><td valign="top" width="31%">
@@ -82,5 +79,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-  </p>
