@@ -1,15 +1,18 @@
 <h1 align="center">Oi <img height="30" width="40" src="https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" />, Eu sou o Marcos Vinicius</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor Front-end</h3>
 
-<div align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img
-        src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula" align="center" alt="viniciusvinny233" /></div>
+<div align="center"><img
+        src="https://github-profile-trophy.vercel.app/?username=viniciusvinny233&theme=dracula&row=1&column=6" align="center" alt="viniciusvinny233" /></div>
        
+<br><br>
 
-- 🌱 Atualmente desenvolvendo um projeto em Flutter 
+- ❤️ Apaixonado por tecnologia
 
 - 📚 Estou cursando Engenharia de Software na universidade FIAP
 
 - 🎮 Entusiasta em jogos online, xadrez e poker
+
+<br>
 
 ## Linguagens, frameworks, bibliotecas e ferramentas:  
 <table><tr><td valign="top" width"20%">
@@ -36,8 +39,6 @@
       </div>
 <div align="center">  
     <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-    <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img height="48" width="55" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1648592075802x919360361145971000%2Fjafapps_%255B1%255D.png?w=&h=&auto=compress&dpr=1&fit=max" />  
     <img height="42" width="42" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 
 
@@ -62,7 +63,7 @@
     <h3>Mobile</h1>
       </div>
 <div align="center">  
-     <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+     <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
     <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
