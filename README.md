@@ -1,4 +1,4 @@
-<h1 align="center">Oi <img height="30" width="40" src="https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" />, Eu sou o Marcos Vinicius</h1>
+<h1 align="center">Oi, Eu sou o Marcos Vinicius</h1>
 <h3 align="center">Desenvolvedor Front-end</h3>
 
 <div align="center"><img
@@ -15,6 +15,20 @@
 <br>
 
 ## Linguagens, frameworks, bibliotecas e ferramentas:  
+<table><tr>
+ <div align="center">
+    <h3>Especialidades</h1>
+      </div>
+<div align="center">  
+        <table align="center" border="none"!important><tr border="none"><td border="none"!important>
+     <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+        <h3>React.js</h1></td>
+    <td><img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+        <h3>Flutter</h1></td></tr></table>
+</div>
+
+</td></tr></table>  
+
 <table><tr><td valign="top" width"20%">
 
 <div align="center">
@@ -69,9 +83,6 @@
 <h3 align="left">Fale comigo:</h3>
 
    <div align="left">
-  <a href="https://www.discordapp.com/users/354444801917059073" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-240436144/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
