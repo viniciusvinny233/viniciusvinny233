@@ -20,12 +20,22 @@
     <h3>Especialidades</h1>
       </div>
 <div align="center">  
-        <table align="center" border="none"!important><tr border="none"><td border="none"!important>
-     <img height="40" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-        <h3>React.js</h1></td>
-    <td><img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-        <h3>Flutter</h1></td></tr></table>
+    <table align="center" border="0">
+        <tr border="0">
+            <td border="0" width="150" align="center">
+                <img height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+                <h3>React.js</h1>
+            </td>
+            <td border="0" width="150" align="center">
+                <img height="40" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+                <h3>Flutter</h1>
+            </td>
+        </tr>
+    </table>
 </div>
+
+
+
 
 </td></tr></table>  
 
